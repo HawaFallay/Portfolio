@@ -27,3 +27,21 @@ body {
     background-color: #04AA6D;
     color: white;
   }
+  
+
+  .image {
+    height:500px;
+    width:400px;
+    margin-top: 10px;
+    margin: 25px;
+    align-self:auto;
+  }
+  
+  .topnav links li:hover {
+      Background-color: grey;
+  }
+ 
+    
+  /* .flex-container 
+    display: flex;
+ */
