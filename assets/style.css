@@ -30,11 +30,20 @@ body {
   
 
   .image {
+    height:250px;
+    width:200px;
+    margin-top: 10px;
+    margin: 25px;
+    align-self:auto;
+  }
+
+  .image2 {
     height:500px;
     width:400px;
     margin-top: 10px;
     margin: 25px;
     align-self:auto;
+
   }
   
   .topnav links li:hover {
